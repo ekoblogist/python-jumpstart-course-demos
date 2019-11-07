@@ -1,0 +1,6 @@
+print(30*'-')
+print(10*' '+'HELLO APP')
+print(30*'-')
+print()
+my_name=input("What is your name?  ")
+print('Nice to meet you '+ my_name + '.')
